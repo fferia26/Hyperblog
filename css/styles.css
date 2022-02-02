@@ -22,8 +22,8 @@ header {
 }
 
 .logo {
-    background-color: #f2f2f2;
-    color: #11468F;
+    background-color: #11468F;
+    color: #fff;
     padding: .5rem 1rem;
     border-radius: .5rem;
     float: left;
@@ -40,15 +40,15 @@ header {
 .nav-bar li {
     list-style: none;
     display: inline-block;
-    background-color: #f2f2f2;
-    color: #11468F; 
+    font-weight: 700;
+    background-color: #11468F;
+    color: #fff;
     padding: 1.2rem 2.5rem;
     border-radius: .5rem;
 }
 
 .nav-bar li:hover {
-    background-color: #11468F;
-    color: #f2f2f2;
+    background-color: #EC255A;
     cursor: pointer;
 }
 
@@ -92,5 +92,20 @@ header {
 
 .post
 {
-    padding: 2rem 1rem;
+   padding: 2rem 1rem;
+   font-size: 1.8rem;
+}
+
+.btn {
+    display: inline;
+    padding: 1rem;
+    background-color: #11468F;
+    color: #fff;
+    font-weight: 700;
+    border-radius: .5rem;
+}
+
+.btn:hover {
+    background-color: #EC255A;
+    cursor: pointer;
 }
