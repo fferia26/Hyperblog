@@ -15,14 +15,14 @@ body {
 }
 
 header {
-    background-color: #2A2B2A;
+    background-color: #F7F4F3;
     padding: 0.5rem;
     overflow: hidden;
-
+    border-bottom: 0.1rem solid #D0CAC8;
 }
 
 .logo {
-    background-color: #38305F;
+    background-color: #11468F;
     color: #fff;
     padding: .5rem 1rem;
     border-radius: .5rem;
@@ -49,14 +49,14 @@ header {
     list-style: none;
     display: inline-block;
     font-weight: 700;
-    background-color: #38305F;
+    background-color: #11468F;
     color: #fff;
     padding: 1.2rem 2.5rem;
     border-radius: .5rem;
 }
 
 .nav-bar li:hover {
-    background-color: #36558F;
+    background-color: #EC255A;
     cursor: pointer;
 }
 
