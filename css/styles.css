@@ -109,3 +109,10 @@ header {
     background-color: #EC255A;
     cursor: pointer;
 }
+
+footer p{
+    background-color: #28262c;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
