@@ -15,19 +15,27 @@ body {
 }
 
 header {
-    background-color: #28262c;
+    background-color: #2A2B2A;
     padding: 0.5rem;
     overflow: hidden;
 
 }
 
 .logo {
-    background-color: #11468F;
+    background-color: #38305F;
     color: #fff;
     padding: .5rem 1rem;
     border-radius: .5rem;
     float: left;
+    /* display: flex;
+    align-items: center; */
     cursor: pointer;
+    width: 25rem;
+}
+
+.logo img {
+    width: 4rem;
+    float: left;
 }
 
 .nav-bar {
@@ -41,14 +49,14 @@ header {
     list-style: none;
     display: inline-block;
     font-weight: 700;
-    background-color: #11468F;
+    background-color: #38305F;
     color: #fff;
     padding: 1.2rem 2.5rem;
     border-radius: .5rem;
 }
 
 .nav-bar li:hover {
-    background-color: #EC255A;
+    background-color: #36558F;
     cursor: pointer;
 }
 
