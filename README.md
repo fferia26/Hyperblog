@@ -1,6 +1,7 @@
-**Hyperblog**
-***
+#Hyperblog
 
-Este es un blog espectacular de mi curso de Git y GitHub con Platzi.
+Este es un **blog** espectacular de mi curso de **Git y GitHub** con Platzi.
 
-**By: Fabian Feria**
+![Hyperblog](images/Hyperblog.png)
+
+By: **Fabian Feria**
